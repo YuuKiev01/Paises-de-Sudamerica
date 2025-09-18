@@ -1,12 +1,26 @@
-# Paises-de-Sudamerica
+# Paises-del-mundo
 Practica 2 de commit con GitHub
 
 #A:
-#1. Argentina
+Argentina
+Albania
+Alemnania
 
 #B:
-#1. Bolivia
+Bélgica
+Brasil
+Bolivia
 
 #C:
-#1. Colombia
-#2. Chile 
+Colombia
+
+#D:
+Dinamarca
+
+#E:
+Egipto
+España
+Eslovenia
+
+
+
